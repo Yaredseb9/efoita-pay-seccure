@@ -1,0 +1,5 @@
+<?php
+
+$registration = new Registration();
+
+?>
